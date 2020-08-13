@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FBF84FBC-1DB2-4CED-875D-F54C85CDA90E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - 67c506e85cda3a7f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentTemp.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - a2ad86dda4e7964b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentTemp.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - 46cf5a91891b9378"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentTemp.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - 9fddd2599ccf2dfa"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentTemp.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - d8422022d9f9c803"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyFatara_M_WeatherApp_Exercise.ViewController"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "DAFBD528-959A-487D-90D0-524B9D3412A9 - 9a518b6777c882c5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyFatara_M_WeatherApp_Exercise.ViewController&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - f703a045b3381b9e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentSummary.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - 89f12413e1c15372"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentSummary.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - e4a6921da5b3e666"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentSummary.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - 4fe2d1fce29c71d8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.currentSummary.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - d8422022d9f9c803"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyFatara_M_WeatherApp_Exercise.ViewController"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "54AE843E-2068-47AA-90B4-94F4CE80647B - 9a518b6777c882c5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyFatara_M_WeatherApp_Exercise.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyFatara_M_WeatherApp_Exercise.ViewController&gt;"
+                  moduleName = "MyFatara_M_WeatherApp_Exercise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fataramuhammad/Desktop/MyFatara_M_WeatherApp_Exercise/MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "183">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DB870DA-10F5-4BAC-BC40-4E524DABDAAD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58362963-866B-4DA4-86D3-96360C34DF60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyFatara_M_WeatherApp_Exercise/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
